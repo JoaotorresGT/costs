@@ -20,7 +20,8 @@ function NewProject() {
             .then((resp) => resp.json())
             .then((data) => {
                 console.log(data)
-                navigate('/projects') // Correção aqui
+                 const state = { message: "Projeto criado com sucesso!" };
+                    navigate("/projects", {state}); // Correção aqui
             })
             .catch(err => console.log(err))
     }
@@ -37,4 +38,4 @@ function NewProject() {
     )
 }
 
-export default NewProject
+export default NewProject 
