@@ -188,6 +188,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "30d9",
+      "name": "chama",
+      "budget": "222",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
