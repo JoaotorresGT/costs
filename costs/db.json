@@ -18,14 +18,14 @@
         "name": "Desenvolvimento"
       },
       "name": "chama02",
-      "budget": "4000",
+      "budget": "5000",
       "cost": 0,
       "services": []
     },
     {
       "id": "8b5e",
       "name": "Design",
-      "budget": "70",
+      "budget": "5000",
       "category": {
         "id": "3",
         "name": "Design"

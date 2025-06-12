@@ -80,4 +80,3 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
 }
 
 export default ProjectForm;
-
